@@ -1,0 +1,96 @@
+
+Feb 11 18:33: IMCOMBINE
+  combine = average, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  bias/ALCa220372.fits[im1]
+  bias/ALCa220373.fits[im1]
+  bias/ALCa220380.fits[im1]
+  bias/ALCa220375.fits[im1]
+  bias/ALCa220371.fits[im1]
+  bias/ALCa220378.fits[im1]
+  bias/ALCa220374.fits[im1]
+  bias/ALCa220379.fits[im1]
+  bias/ALCa220377.fits[im1]
+  bias/ALCa220370.fits[im1]
+  bias/ALCa220376.fits[im1]
+
+  Output image = a.fits, ncombine = 11
+
+Feb 11 18:58: IMCOMBINE
+  combine = average, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images       N
+  bias/ALCa220372.fits[1]      1
+  bias/ALCa220373.fits[1]      1
+  bias/ALCa220380.fits[1]      1
+  bias/ALCa220375.fits[1]      1
+  bias/ALCa220371.fits[1]      1
+  bias/ALCa220378.fits[1]      1
+  bias/ALCa220374.fits[1]      1
+  bias/ALCa220379.fits[1]      1
+  bias/ALCa220377.fits[1]      1
+  bias/ALCa220370.fits[1]      1
+  bias/ALCa220376.fits[1]      1
+      bias/zero.fits[1]      2
+
+  Output image = a.fits, ncombine = 13
+
+Feb 11 18:58: IMCOMBINE
+  combine = average, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  bias/ALCa220372.fits[1]
+  bias/ALCa220373.fits[1]
+  bias/ALCa220380.fits[1]
+  bias/ALCa220375.fits[1]
+  bias/ALCa220371.fits[1]
+  bias/ALCa220378.fits[1]
+  bias/ALCa220374.fits[1]
+  bias/ALCa220379.fits[1]
+  bias/ALCa220377.fits[1]
+  bias/ALCa220370.fits[1]
+  bias/ALCa220376.fits[1]
+
+  Output image = a.fits, ncombine = 11
+
+Feb 11 18:58: IMCOMBINE
+  combine = average, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  bias/ALCa220372.fits[1]
+  bias/ALCa220373.fits[1]
+  bias/ALCa220380.fits[1]
+  bias/ALCa220375.fits[1]
+  bias/ALCa220371.fits[1]
+  bias/ALCa220378.fits[1]
+  bias/ALCa220374.fits[1]
+  bias/ALCa220379.fits[1]
+  bias/ALCa220377.fits[1]
+  bias/ALCa220370.fits[1]
+  bias/ALCa220376.fits[1]
+
+  Output image = a.fits, ncombine = 11
+
+Feb 11 18:58: IMCOMBINE
+  combine = average, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  bias/ALCa220372.fits[1]
+  bias/ALCa220373.fits[1]
+  bias/ALCa220380.fits[1]
+  bias/ALCa220375.fits[1]
+  bias/ALCa220371.fits[1]
+  bias/ALCa220378.fits[1]
+  bias/ALCa220374.fits[1]
+  bias/ALCa220379.fits[1]
+  bias/ALCa220377.fits[1]
+  bias/ALCa220370.fits[1]
+  bias/ALCa220376.fits[1]
+
+  Output image = MasterBias.fits, ncombine = 11

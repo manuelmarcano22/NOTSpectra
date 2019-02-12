@@ -1,0 +1,28 @@
+
+Feb 11 18:28: IMCOMBINE
+  combine = average, scale = none, zero = none, weight = none
+  blank = 0.
+                Images 
+     ALCa220370.fits[1]
+     ALCa220371.fits[1]
+
+  Output image = zero, ncombine = 2
+
+Feb 11 18:31: IMCOMBINE
+  combine = average, scale = none, zero = none, weight = none
+  blank = 0.
+                Images 
+     ALCa220370.fits[1]
+     ALCa220371.fits[1]
+
+  Output image = zero, ncombine = 2
+
+Feb 11 18:32: IMCOMBINE
+  combine = average, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+     ALCa220370.fits[1]
+     ALCa220371.fits[1]
+
+  Output image = Zero, ncombine = 2
