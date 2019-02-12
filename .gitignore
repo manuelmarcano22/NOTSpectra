@@ -1,3 +1,8 @@
 # PyRAF cache directory
 #pyraf
 clcache.v2
+
+
+#ipynb checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
