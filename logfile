@@ -94,3 +94,68 @@ Feb 11 18:58: IMCOMBINE
   bias/ALCa220376.fits[1]
 
   Output image = MasterBias.fits, ncombine = 11
+resp0: Feb 12 18:28 Trim data section is [1:500,1:2102]
+resp0: Feb 12 18:28 Trim data section is [1:500,1:2102]
+resp0: Feb 12 18:29 Trim data section is [1:500,1:2102]
+resp0: Feb 12 18:30 Trim data section is [1:500,1:2102]
+resp0: Feb 12 18:30 Illumination image is illu0 with scale=1.
+resp0: Feb 12 18:31 Illumination image is illu0 with scale=1.
+resp0.fits: Feb 12 18:31 Illumination image is illu0 with scale=1.
+resp0: Feb 12 18:32 Trim data section is [1:500,1:2102]
+resp0: Feb 12 18:33 Trim data section is [1:500,1:2102]
+resp0: Feb 12 18:34 Trim data section is [1:500,1:2102]
+resp0: Feb 12 18:34 Illumination image is illu0.fits with scale=1.
+resp1: Feb 12 18:34 Trim data section is [1:500,1:2102]
+resp1: Feb 12 18:34 Illumination image is illu1.fits with scale=1.
+resp2: Feb 12 18:34 Trim data section is [1:500,1:2102]
+resp2: Feb 12 18:34 Illumination image is illu2.fits with scale=1.
+resp3: Feb 12 18:34 Trim data section is [1:500,1:2102]
+resp3: Feb 12 18:34 Illumination image is illu3.fits with scale=1.
+resp4: Feb 12 18:34 Trim data section is [1:500,1:2102]
+resp4: Feb 12 18:34 Illumination image is illu4.fits with scale=1.
+resp0: Feb 12 18:34 Trim data section is [1:500,1:2102]
+resp0: Feb 12 18:34 Illumination image is illu0.fits with scale=1.
+resp1: Feb 12 18:34 Trim data section is [1:500,1:2102]
+resp1: Feb 12 18:34 Illumination image is illu1.fits with scale=1.
+resp2: Feb 12 18:34 Trim data section is [1:500,1:2102]
+resp2: Feb 12 18:34 Illumination image is illu2.fits with scale=1.
+resp3: Feb 12 18:34 Trim data section is [1:500,1:2102]
+resp3: Feb 12 18:34 Illumination image is illu3.fits with scale=1.
+resp4: Feb 12 18:34 Trim data section is [1:500,1:2102]
+resp4: Feb 12 18:34 Illumination image is illu4.fits with scale=1.
+resp0: Feb 12 18:35 Trim data section is [1:500,1:2102]
+resp0: Feb 12 18:35 Trim data section is [1:500,1:2102]
+resp0: Feb 12 18:35 Illumination image is illu0.fits with scale=1.
+resp1: Feb 12 18:35 Trim data section is [1:500,1:2102]
+resp1: Feb 12 18:35 Illumination image is illu1.fits with scale=1.
+resp2: Feb 12 18:35 Trim data section is [1:500,1:2102]
+resp2: Feb 12 18:35 Illumination image is illu2.fits with scale=1.
+resp3: Feb 12 18:35 Trim data section is [1:500,1:2102]
+resp3: Feb 12 18:35 Illumination image is illu3.fits with scale=1.
+resp4: Feb 12 18:35 Trim data section is [1:500,1:2102]
+resp4: Feb 12 18:35 Illumination image is illu4.fits with scale=1.
+resp0: Feb 12 18:36 Trim data section is [1:500,1:2102]
+resp0: Feb 12 18:36 Illumination image is illu0.fits with scale=1.
+resp1: Feb 12 18:36 Trim data section is [1:500,1:2102]
+resp1: Feb 12 18:36 Illumination image is illu1.fits with scale=1.
+resp2: Feb 12 18:36 Trim data section is [1:500,1:2102]
+resp2: Feb 12 18:36 Illumination image is illu2.fits with scale=1.
+resp3: Feb 12 18:36 Trim data section is [1:500,1:2102]
+resp3: Feb 12 18:36 Illumination image is illu3.fits with scale=1.
+resp4: Feb 12 18:36 Trim data section is [1:500,1:2102]
+resp4: Feb 12 18:36 Illumination image is illu4.fits with scale=1.
+SerieCompleta/ALCa220197.fits[1]: Feb 12 19:05 Trim data section is [1:500,1:2102]
+SerieCompleta/ALCa220197.fits[1]: Feb 12 19:05 Flat field image is FlatMaster.fits[1] with scale=0.9574263
+SerieCompleta/ALCa220197.fits[1]: Feb 12 19:05 Illumination image is IllumMaster.fits with scale=1.
+SerieCompleta/ALCa220197.fits[1]: Feb 12 19:05 Trim data section is [1:500,1:2102]
+SerieCompleta/ALCa220197.fits[1]: Feb 12 19:05 Illumination image is IllumMaster.fits with scale=1.
+SerieCompleta/ALCa220197.fits[1]: Feb 12 19:06 Trim data section is [1:500,1:2102]
+SerieCompleta/ALCa220197.fits[1]: Feb 12 19:06 Illumination image is IllumMaster.fits with scale=1.
+standard/ALCa220207.fits[1]: Feb 12 19:07 Trim data section is [1:500,1:2102]
+standard/ALCa220207.fits[1]: Feb 12 19:07 Illumination image is IllumMaster.fits with scale=1.
+SerieCompleta/ALCa220198.fits[1]: Feb 12 19:07 Trim data section is [1:500,1:2102]
+SerieCompleta/ALCa220198.fits[1]: Feb 12 19:07 Illumination image is IllumMaster.fits with scale=1.
+standard/ALCa220207.fits[1]: Feb 12 19:08 Trim data section is [1:500,1:2102]
+standard/ALCa220207.fits[1]: Feb 12 19:08 Illumination image is IllumMaster.fits with scale=1.
+SerieCompleta/ALCa220200.fits[1]: Feb 12 19:09 Trim data section is [1:500,1:2102]
+SerieCompleta/ALCa220200.fits[1]: Feb 12 19:09 Illumination image is IllumMaster.fits with scale=1.
