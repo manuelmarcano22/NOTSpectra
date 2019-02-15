@@ -1,0 +1,28 @@
+# Wed 13:40:52 13-Feb-2019
+begin	aperture ScienceRed 1 250.0658 250.
+	image	ScienceRed
+	aperture	1
+	beam	1
+	center	250.0658 250.
+	low	-5. -249.
+	high	5. 1852.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	1
+	curve	6
+		2.
+		2.
+		10.
+		2100.
+		0.1376687
+		0.2362464
+
